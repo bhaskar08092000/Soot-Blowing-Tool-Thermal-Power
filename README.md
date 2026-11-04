@@ -15,6 +15,12 @@ The application converts complex thermal performance engineering calculations in
 - Predictive Blow Scheduling
 - Real-time Operational Analysis
 Developed for supercritical and subcritical thermal power plants to maximize boiler efficiency while minimizing steam loss, tube erosion, and unnecessary soot blowing operations.
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+![](5.png)
+
 
 
 🎯 Key Objectives
